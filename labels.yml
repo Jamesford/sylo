@@ -1,0 +1,41 @@
+- name: 'Status: Backlog'
+  color: 'ebfaeb'
+
+- name: 'Status: Next'
+  color: 'adebad'
+
+- name: 'Status: In Progress'
+  color: '85e085'
+
+- name: 'Status: In Review'
+  color: '33cc33'
+
+- name: 'Status: Done'
+  color: '248f24'
+
+- name: 'Priority: Low'
+  color: 'ffe6e6'
+
+- name: 'Priority: Medium'
+  color: 'ffb3b3'
+
+- name: 'Priority: High'
+  color: 'ff4d4d'
+
+- name: 'Priority: Critical'
+  color: 'ff0000'
+
+- name: 'Priority: Blocked'
+  color: '#b30000'
+
+- name: 'Type: Question'
+  color: 'ccebff'
+
+- name: 'Type: Enhancement'
+  color: '80ccff'
+
+- name: 'Type: Task'
+  color: '0099ff'
+
+- name: 'Type: Bug'
+  color: '3333cc'
